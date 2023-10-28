@@ -1,1 +1,2 @@
 # openwrt-tools
+一个用来定时检测路由器ipv6并通过server酱推送顺便在dynv6上ddns的脚本，padavan也可以用，在定时任务里加入定时运行脚本就行，默认文件路径在根目录，可自行修改
